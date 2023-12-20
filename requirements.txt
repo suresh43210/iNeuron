@@ -1,5 +1,5 @@
 openai
 langchain
-sreamlit
+streamlit
 python-dotenv
-PyPDF2
+PyPDF2pi
